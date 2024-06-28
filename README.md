@@ -3,8 +3,9 @@ In this mini project, we will perform an exploratory data analysis on a Netflix 
 
 We will categorize the movies into two groups based on their duration:
 
-Short Movies: Duration <= 60 minutes
-Long Movies: Duration > 60 minutes
+- Short Movies: Duration <= 60 minutes
+- Long Movies: Duration > 60 minutes
+
 Our analysis will examine whether the number of short movies has increased compared to long movies over the years based on their release year.
 
 # Files: 
