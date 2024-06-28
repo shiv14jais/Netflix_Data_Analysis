@@ -9,6 +9,7 @@ Our analysis will examine whether the number of short movies has increased compa
 
 # Files: 
 netflix_data.csv : Contains the data for movies released from 1940 - 2021 
+
 notebook.pynb : Contains the python script for analysis. 
 
 
